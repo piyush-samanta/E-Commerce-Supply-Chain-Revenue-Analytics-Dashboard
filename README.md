@@ -130,4 +130,4 @@ Dashboard.png
 
 **Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: https://www.linkedin.com/in/piyush-samanta-32985b323/
