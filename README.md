@@ -106,12 +106,7 @@ This dashboard helps businesses:
 ---
 
 ## 📸 Dashboard Preview
-
-> *(Add your dashboard screenshot here)*
-
-```
-Dashboard.png
-```
+<img width="2861" height="1653" alt="Screenshot 2026-07-21 191109" src="https://github.com/user-attachments/assets/a4b7cf9b-1bf7-445a-8c03-b0d5171799a4" />
 
 ---
 
